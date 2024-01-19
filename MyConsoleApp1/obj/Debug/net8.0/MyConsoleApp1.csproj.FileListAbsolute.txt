@@ -1,0 +1,14 @@
+/Users/ryanbarlow/MyConsoleApp/MyConsoleApp1/bin/Debug/net8.0/MyConsoleApp1
+/Users/ryanbarlow/MyConsoleApp/MyConsoleApp1/bin/Debug/net8.0/MyConsoleApp1.deps.json
+/Users/ryanbarlow/MyConsoleApp/MyConsoleApp1/bin/Debug/net8.0/MyConsoleApp1.runtimeconfig.json
+/Users/ryanbarlow/MyConsoleApp/MyConsoleApp1/bin/Debug/net8.0/MyConsoleApp1.dll
+/Users/ryanbarlow/MyConsoleApp/MyConsoleApp1/bin/Debug/net8.0/MyConsoleApp1.pdb
+/Users/ryanbarlow/MyConsoleApp/MyConsoleApp1/obj/Debug/net8.0/MyConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryanbarlow/MyConsoleApp/MyConsoleApp1/obj/Debug/net8.0/MyConsoleApp1.AssemblyInfoInputs.cache
+/Users/ryanbarlow/MyConsoleApp/MyConsoleApp1/obj/Debug/net8.0/MyConsoleApp1.AssemblyInfo.cs
+/Users/ryanbarlow/MyConsoleApp/MyConsoleApp1/obj/Debug/net8.0/MyConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/ryanbarlow/MyConsoleApp/MyConsoleApp1/obj/Debug/net8.0/MyConsoleApp1.dll
+/Users/ryanbarlow/MyConsoleApp/MyConsoleApp1/obj/Debug/net8.0/refint/MyConsoleApp1.dll
+/Users/ryanbarlow/MyConsoleApp/MyConsoleApp1/obj/Debug/net8.0/MyConsoleApp1.pdb
+/Users/ryanbarlow/MyConsoleApp/MyConsoleApp1/obj/Debug/net8.0/MyConsoleApp1.genruntimeconfig.cache
+/Users/ryanbarlow/MyConsoleApp/MyConsoleApp1/obj/Debug/net8.0/ref/MyConsoleApp1.dll
